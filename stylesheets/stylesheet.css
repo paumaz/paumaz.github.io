@@ -95,14 +95,13 @@ h6 {
 #menu {
   text-decoration: none;
   font-weight:bold;
-  vertical-align:center;
-
 }
 #menu ul {
   color:white;
   text-decoration:none;
-  padding:0 0;
+  padding:10px 30px;
   display:block;
+  float:right;
 }
 p {
   margin: 10px 0 15px 0;
