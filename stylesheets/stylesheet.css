@@ -92,6 +92,11 @@ h5 {
 h6 {
   font-size: 16px;
 }
+#menu {
+  text-decoration: none;
+  font-weight:bold;
+  vertical-align:middle;
+}
 
 p {
   margin: 10px 0 15px 0;
